@@ -163,7 +163,7 @@ yat:
 defaults:
   home:
     heading: "My heading changed"
-    subheading: "My subheading changed"
+    subheading: "If you want to download my buisness card : https://github.com/BalthazarTack/buisness-card/releases/download/latest/card.pdf"
     banner: "Your image url"
 
 # Banner default settings
